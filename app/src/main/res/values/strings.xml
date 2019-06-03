@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaNo1</string>
+    <string name="User_field">Username</string>
+    <string name="Password_field">Password</string>
+    <string name="Login_buttom">Login</string>
+    <string name="Clear_buttom">Clear</string>
+</resources>
